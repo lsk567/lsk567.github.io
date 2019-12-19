@@ -1,22 +1,25 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-    #- title: "Talks"
-    #url: /talks/    
-
-    #- title: "Teaching"
-    #url: /teaching/    
+  - title: "Papers"
+    url: /papers/    
     
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog/
     
   - title: "CV"
     url: /files/Shaokai_Lin_CV.pdf
+
+  - title: "Fun"
+    url: /fun/
     
     #- title: "Guide"
     #url: /markdown/
+    
+    #- title: "Talks"
+    #url: /talks/    
+
+    #- title: "Teaching"
+    #url: /teaching/

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome" 
+title: "Hello 👋" 
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -14,6 +14,6 @@ My research projects include
 1. [<i>Serverlessnet</i>](https://serverlessnet.github.io/serverlessnet), a serverless-enabled IoT network prototyping software,
 2. <i>Scivik</i>, a formal verification toolchain for Ethereum smart contracts, 
 3. <i>CArmor</i>, a C compiler extension that produces program partitions for network enclaves,
-4. <i>CQSD</i>, an efficiency-oriented secure quantum communication protocol, accepted to be presented in a poster session at QIP2020.
+4. [<i>CQSD</i>](https://arxiv.org/abs/1910.08135), an efficiency-oriented secure quantum communication protocol, accepted to be presented in a poster session at QIP2020.
 
-I am also highly interested in entreprenuership and have launched a couple startups in the past. To learn more about my experiences, please check out my [portfolio](/portfolio). I believe in prioritizing the quality of work instead of quantity. I look up to academic and tech giants including Professor Shoucheng Zhang, Bill Gates, and Elon Musk.
+I am also interested in entreprenuership and have worked for a couple startups in the past. To learn more about my experiences, please check out my [CV](/files/Shaokai_Lin_CV.pdf) and [portfolio](/portfolio). I believe in producing high-quality work in everything I do.

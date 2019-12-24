@@ -1,3 +1,8 @@
 # bundle clean
 # bundle install
-bundle exec jekyll liveserve
+
+if [ "$1" == "dev" ]; then
+	bundle exec jekyll liveserve --config _config.dev.yml
+else
+	bundle exec jekyll liveserve
+fi

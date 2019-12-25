@@ -1,12 +1,10 @@
 ---
-title: "Scivik: formal verification toolchain of solidity smart contracts"
-excerpt: "An efficient and secure quantum communication protocol<br/><img src='/images/CQSD.png'>"
+title: "Scivik"
+excerpt: "Scivik is an automated toolchain that formally verifies the functional correctness of Yul, the intermediate representation of Ethereum smart contracts."
 collection: portfolio
 ---
 
-For details of the publication, please refer to [this link](/papers/2019-10-27-CQSD).
+The manuscript is under preparation and will be submitted to CAV 2020.
 <hr>
 
-# Introduction
 
-How do we build a quantum communication protocol that is both secure and efficient?

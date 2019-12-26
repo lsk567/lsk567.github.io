@@ -12,5 +12,5 @@ Serverlessnet is an emulator for rapid prototyping of serverless IoT network for
 
 Serverless frameworks are the natural way to run LAN outside the cloud.  As IoT devices often have limited computational power, serverless frameworks offer the capability to offload CPU to more powerful remote networks, in this case, the instance of OpenWhisk.  Running this network outside the cloud allows for more robust IoT systems that can deal with network outages.  There are multiple ways of achieving this; however, having this system be serverless provides a higher level of abstraction for the developer, as functions can be written without knowledge of system processes and frameworks.
 
-For detailed documentation of the tool, please refer to [https://serverless-net.github.io/serverlessnet/](https://serverless-net.github.io/serverlessnet/).
+For more information, please refer to the project website: [https://serverless-net.github.io/serverlessnet/](https://serverless-net.github.io/serverlessnet/).
 

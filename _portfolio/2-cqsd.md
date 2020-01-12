@@ -14,5 +14,5 @@ The advent of quantum computing unlocks novel methods for secure communications 
 # How CQSD works
 The communication of two parties start with a security handshake, which includes an initial eavesdropper check and supplying the other party newly entangled EPR pairs. The EPR pairs will then be used to perform superdense coding and transmit classical bit information between the two parties. In the design of CQSD, instead of sending new EPR pairs at the beginning of the communication, new EPR pairs will be sent during regular message transmission so that both parties can have enough EPR pairs to perform the next message transmission. With this mechanism in place, dialogue participants no longer need to halt and re-initiate the conversation when the available EPR pairs are used up. The communication channel can thus be kept alive until both parties finish conversing. 
 
-# Upcoming
-I will present the CQSD protocol with my partner Zichuan Wang at QIP 2020 on Jan 7, 2020, in Shenzhen, China. Stay tuned for the conference updates!
+# QIP 2020
+I presented the CQSD protocol with my partner Zichuan Wang at QIP 2020 on Jan 7, 2020, in Shenzhen, China. The protocol attracted many people's attention and we received helpful feedback from other scholars.

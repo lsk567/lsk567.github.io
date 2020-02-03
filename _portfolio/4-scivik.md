@@ -1,10 +1,10 @@
 ---
 title: "Scivik"
-excerpt: "Scivik is an automated toolchain that formally verifies the functional correctness of Yul, the intermediate representation of Ethereum smart contracts."
+excerpt: "Scivik is an automated toolchain that formally verifies the functional correctness of Yul, the intermediate representation of Ethereum smart contracts.<br/><img src='/images/scivik.png' width='500'>"
 collection: portfolio
 ---
 
-The manuscript is under preparation and will be submitted to CAV 2020.
+The manuscript is under preparation and will be submitted to USENIX Security 2020.
 <hr>
 
 

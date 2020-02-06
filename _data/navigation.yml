@@ -6,12 +6,15 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-    #- title: "Blog Posts"
-    #url: /blog/
-    
+  - title: "Medium"
+    url: /medium/
+
   - title: "CV"
     url: /files/Shaokai_Lin_CV.pdf
 
+    #- title: "Blog Posts"
+    #url: /blog/
+    
     #- title: "Fun"
     #url: /fun/
     

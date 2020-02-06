@@ -1,0 +1,29 @@
+---
+layout: archive
+title: "Medium"
+permalink: /medium/
+author_profile: true
+---
+
+{% include base_path %}
+
+<style>
+	.fm-post-title {
+		font-size: 20px;
+	}
+</style>
+
+<div id="fm-medium-embed"></div>
+<script src="//data.feedmirror.com/embed.js"></script>
+<script>
+	var fmSettings = {
+		feedURL: 'https://data.feedmirror.com/-M-O8iFBl4AVqA9n_yN6.json',
+		integration: 'medium-embed',
+		linkOutText: '',
+		linkToMediumProfileText: 'For more posts, click here.',
+		postsCount: 3,
+		element: 'fm-medium-embed'
+	};
+	feedmirror.initialize(fmSettings);
+</script>
+		            

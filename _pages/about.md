@@ -13,7 +13,7 @@ Welcome to my homepage. I am currently a undergraduate student at Columbia Unive
 My research projects include 
 - [<i>Scivik</i>](/portfolio/4-scivik), a formal verification toolchain for Ethereum smart contracts, 
 - [<i>CArmor</i>](/portfolio/3-carmor), a C compiler extension that produces program partitions for network enclaves,
-- [<i>CQSD</i>](/portfolio/2-cqsd), an efficiency-oriented secure quantum communication protocol, accepted to be presented in a poster session at QIP2020,
+- [<i>CQSD</i>](/portfolio/2-cqsd), an efficiency-oriented secure quantum communication protocol,
 - [<i>Serverlessnet</i>](/portfolio/1-serverlessnet), a serverless-enabled IoT network prototyping software.
 
 I am also interested in entreprenuership and have worked for a couple startups in the past. To learn more about my experiences, please check out my [CV](/files/Shaokai_Lin_CV.pdf) and [portfolio](/portfolio). I believe in producing high-quality work in everything I do.

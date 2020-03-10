@@ -4,7 +4,6 @@ excerpt: "Scivik is an automated toolchain that formally verifies the functional
 collection: portfolio
 ---
 
-The manuscript has been submitted to USENIX Security 2020.
 <hr>
 
 

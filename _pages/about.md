@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello 👋" 
+title: "Hello👋" 
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage. I am currently a undergraduate student at Columbia University studying computer science. I am interested in the Internet of Things (IoT), cyber-physical systems, formal verification, security, blockchain, and quantum computing.
+Welcome to my homepage. I am an EECS PhD student at University of California, Berkeley, advised by Professor Edward Lee
+and Professor Sanjit Seshia. My main interest lies in leveraging formal methods to verify cyber-physical systems. I am
+also broadly interested in the Internet of Things (IoT), security, blockchain, and quantum computing.
 
-My research projects include 
+Here is a list of my past research projects: 
 - [<i>Scivik</i>](/portfolio/4-scivik), a formal verification toolchain for Ethereum smart contracts, 
 - [<i>CArmor</i>](/portfolio/3-carmor), a C compiler extension that produces program partitions for network enclaves,
 - [<i>CQSD</i>](/portfolio/2-cqsd), an efficiency-oriented secure quantum communication protocol,

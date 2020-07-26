@@ -12,6 +12,7 @@ title_separator          : "-"
 name                     : &name "Shaokai Lin"
 description              : &description "an aspiring academic"
 url                      : https://lsk567.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                      : "" # for development
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsk567/lsk567.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +83,7 @@ analytics:
 author:
   name             : "Shaokai Lin"
   avatar           : "Shaokai_square.jpeg"
-  bio              : "EECS PhD Student at University of California, Berkeley"
+  bio              : "EECS PhD Student at the University of California, Berkeley"
   location         : "Berkeley, CA 94720"
   employer         :
   pubmed           : 
@@ -187,6 +188,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  ins:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,6 +248,15 @@ defaults:
       layout: talk
       author_profile: true
       share: false
+  # _ins
+  - scope:
+      path: ""
+      type: ins
+    values:
+      layout: single # subject to change
+      author_profile: false
+      share: true
+
 
 # Sass/SCSS
 sass:

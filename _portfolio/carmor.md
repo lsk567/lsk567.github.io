@@ -2,6 +2,7 @@
 title: "CArmor"
 excerpt: "CArmor is a compiler extension that splits a C program into two partitions according to security annotations.<br/><img src='/images/carmor_cover.png' width='250'>"
 collection: portfolio
+project-order: 3
 ---
 
 # How it works

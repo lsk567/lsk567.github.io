@@ -2,6 +2,7 @@
 title: "Continuous Quantum Secure Dialogue (CQSD) Protocol"
 excerpt: "An efficient and secure quantum communication protocol<br/><img src='/images/CQSD.png' width='500'>"
 collection: portfolio
+project-order: 2
 ---
 
 For details of the publication, please refer to [this link](/papers/2019-10-27-CQSD).<br>

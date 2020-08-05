@@ -19,4 +19,4 @@ Here is a list of my past research projects:
 - [<i>CQSD</i>](/portfolio/cqsd), an efficiency-oriented secure quantum communication protocol,
 - [<i>Serverlessnet</i>](/portfolio/serverlessnet), a serverless-enabled IoT network prototyping software.
 
-I am also interested in entreprenuership and have worked for a couple startups in the past. To learn more about my experiences, please check out my [CV](/files/Shaokai_Lin_CV.pdf) and [portfolio](/portfolio). I believe in producing high-quality work in everything I do.
+I am also interested in entreprenuership and have worked for a couple of startups in the past. To learn more about my experiences, please check out my [CV](/files/Shaokai_Lin_CV.pdf) and [portfolio](/portfolio). I believe in producing high-quality work in everything I do.

@@ -4,5 +4,6 @@ collection: ins
 bio: "Check out this acoustic cover of 晚安 by Ele Yan."
 link: "https://youtu.be/omIBX7RSXzs"
 thumbnail: "/images/good_night.png" 
+date: "August 2, 2020"
 ---
 

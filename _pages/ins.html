@@ -6,8 +6,10 @@ author_profile: false
 
 {% include base_path %}
 
-{% for post in site.ins %}
+{% assign sorted = site.ins | sort: 'date' | reverse %}
+{% for post in sorted %}
     <h2>{{ post.title }}</h2>
+    <small><i>{{ post.date | date: "%b %d, %Y" }}</i></small>
     <p>{{ post.bio }}</p>
     <a href="{{ post.link }}"><img src="{{ post.thumbnail }}"></img></a>
 {% endfor %}

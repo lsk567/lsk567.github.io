@@ -13,7 +13,7 @@ Lee](https://ptolemy.berkeley.edu/~eal/) and Professor [Sanjit Seshia](http://pe
 My main interest lies in leveraging formal methods to verify cyber-physical systems. I am
 also broadly interested in the Internet of Things (IoT), security, blockchain, and quantum computing.
 
-I am currently on working on verifying [Reactor-based systems](https://github.com/icyphy/lingua-franca) and the
+I am currently working on verifying [Reactor-based systems](https://github.com/icyphy/lingua-franca) and the
 verification engine [UCLID5](https://github.com/uclid-org/uclid).
 
 My past research projects include: 

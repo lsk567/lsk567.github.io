@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaokai Lin 林少凯"
+title                    : "Shaokai (Jerry) Lin"
 title_separator          : "-"
-name                     : &name "Shaokai Lin"
+name                     : &name "Shaokai (Jerry) Lin"
 description              : &description "an aspiring academic"
 url                      : https://lsk567.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#url                      : "" # for development
+# url                      : "" # for development
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsk567/lsk567.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,8 +81,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shaokai Lin"
-  avatar           : "Shaokai_square.jpeg"
+  name             : "Shaokai (Jerry) Lin"
+  avatar           : "shaokai_square_sm.JPG"
   bio              : "EECS PhD Student at the University of California, Berkeley"
   location         : "Berkeley, CA 94720"
   employer         :

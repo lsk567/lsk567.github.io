@@ -11,7 +11,7 @@ title                    : "Shaokai (Jerry) Lin"
 title_separator          : "-"
 name                     : &name "Shaokai (Jerry) Lin"
 description              : &description "an aspiring academic"
-url                      : https://lsk567.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shaokai.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : "" # for development
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsk567/lsk567.github.io"

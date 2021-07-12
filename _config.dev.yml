@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaokai Lin 林少凯"
+title                    : "Shaokai (Jerry) Lin"
 title_separator          : "-"
 name                     : &name "Shaokai (Jerry) Lin"
 description              : &description "an aspiring academic"
-url                      : https://lsk567.github.io
+url                      : "" # for development
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsk567/lsk567.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -73,21 +73,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-157868305-1"
 
 
 # Site Author
 author:
-  name             : "Shaokai Lin"
-  avatar           : "Shaokai_square.jpeg"
-  bio              : "EECS PhD Student  at UC Berkeley"
+  name             : "Shaokai (Jerry) Lin"
+  avatar           : "shaokai_square_sm.JPG"
+  bio              : "EECS PhD Student at the University of California, Berkeley"
   location         : "Berkeley, CA 94720"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=0IfrIpQAAAAJ&hl=en"
-  email            : shaokai@berkeley.edu
+  googlescholar    : "https://scholar.google.com/citations?user=g0eTMuIAAAAJ&hl=en"
+  email            : shaokai at berkeley dot edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "shaokai_lin" 
   vine             :
   weibo            :
   xing             :
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  ins:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,6 +247,15 @@ defaults:
       layout: talk
       author_profile: true
       share: false
+  # _ins
+  - scope:
+      path: ""
+      type: ins
+    values:
+      layout: single # subject to change
+      author_profile: false
+      share: true
+
 
 # Sass/SCSS
 sass:
